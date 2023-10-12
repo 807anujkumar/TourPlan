@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tourplan/static/css/main.decdb0db.css",
+    "main.js": "/Tourplan/static/js/main.06114752.js",
+    "index.html": "/Tourplan/index.html",
+    "main.decdb0db.css.map": "/Tourplan/static/css/main.decdb0db.css.map",
+    "main.06114752.js.map": "/Tourplan/static/js/main.06114752.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.decdb0db.css",
+    "static/js/main.06114752.js"
+  ]
+}
